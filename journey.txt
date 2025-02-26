@@ -1,2 +1,0 @@
-Embarking on my journey to master Git
-
